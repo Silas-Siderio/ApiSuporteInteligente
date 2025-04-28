@@ -19,6 +19,5 @@ No backend (.NET) configure o CORS para liberar o React (http://localhost:3000).
 
 Garanta que o banco SQL Server está configurado corretamente no appsettings.json.
 
-Se quiser, te ajudo também a fazer o deploy no Azure App Services depois! 🚀
 
 ---
